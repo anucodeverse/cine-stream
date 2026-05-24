@@ -11,11 +11,12 @@ The project focuses on frontend performance optimization, client-side polish, in
 Add your deployed URL here:
 
 ```txt
-Live URL: your-vercel-or-netlify-link
+Live URL: https://anucodeverse.github.io/cine-stream/
 GitHub URL: your-github-repository-link
 Demo Video URL: your-demo-video-link
 
-Features
+##Features
+
 Fetches popular movies from the TMDB API
 High-quality responsive movie grid layout
 Movie poster, title, release year, and rating display
@@ -42,7 +43,8 @@ localStorage
 IntersectionObserver API
 
 
-Project Structure
+##Project Structure
+
 cine-stream/
 │
 ├── public/
@@ -88,7 +90,7 @@ Environment Variables
 
 Create a .env file in the root folder.
 
-VITE_TMDB_ACCESS_TOKEN=your_tmdb_api_read_access_token
+VITE_TMDB_ACCESS_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MTU3YTE5YzZjNjA1YjYyMzU2MTI1NDczOWZkZDE3MSIsIm5iZiI6MTc3OTYwMzUyMS4yMTIsInN1YiI6IjZhMTI5ODQxZTBjNjNlOTBlMzI2NmIzYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.m3zxbZ_dwOcuvHueN7rb0K86bi4TbO-thvzhQHlRkII
 
 Important:
 
