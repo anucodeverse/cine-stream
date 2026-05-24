@@ -12,7 +12,7 @@ Add your deployed URL here:
 
 ```txt
 Live URL: https://anucodeverse.github.io/cine-stream/
-GitHub URL: your-github-repository-link
+GitHub URL: https://github.com/anucodeverse/cine-stream
 Demo Video URL: your-demo-video-link
 
 ##Features
